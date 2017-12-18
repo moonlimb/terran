@@ -1,0 +1,50 @@
+country,country_lower,year0,year1,migyears
+Argentina,argentina ,1965.0,2001.0,5.0
+Bolivia,bolivia,1971.0,2001.0,5.0
+Botswana,botswana,1980.0,2011.0,1.0
+Burkina,burkinafaso,1995.0,2006.0,1.0
+Brazil,brazil,1986.0,2010.0,5.0
+Cameroon,cameroon,2000.0,2005.0,5.0
+Canada,canada,1976.0,2001.0,5.0
+Chile,chile,1965.0,2002.0,5.0
+China,china,1985.0,2000.0,5.0
+Colombia,colombia,1980.0,2005.0,5.0
+Costa,costarica,1968.0,2011.0,5.0
+Dominican Republic,dominicanrepublic,1976.0,2010.0,5.0
+Ecuador,ecuador,1985.0,2010.0,5.0
+Fiji,fiji,1971.0,2007.0,5.0
+France,france,1953.0,1999.0,9.0
+Ghana,ghana,1995.0,2000.0,5.0
+Greece,greece,1966.0,2011.0,5.0
+Haiti,haiti,1977.0,2003.0,5.0
+Indonesia,indonesia,1971.0,2010.0,5.0
+Iraq,iraq,1987.0,1997.0,10.0
+Ireland,ireland,1980.0,2011.0,1.0
+Israel,israel,1978.0,1983.0,5.0
+Kenya,kenya,1978.0,2009.0,1.0
+Malaysia,malaysia,1986.0,2000.0,5.0
+Mexico,mexico,1985.0,2010.0,5.0
+Mongolia,mongolia,1995.0,2000.0,5.0
+Morocco,morocco,1999.0,2004.0,5.0
+Mozambique,mozambique,1996.0,2007.0,1.0
+Nicaragua,nicaragua,1966.0,2005.0,5.0
+Pakistan,pakistan,1965.0,1973.0,8.0
+Paraguay,paraguay,1967.0,2002.0,5.0
+Peru,peru,2002.0,2007.0,5.0
+Philippines,philippines,1995.0,2000.0,5.0
+Portugal,portugal,1986.0,2011.0,5.0
+Senegal,senegal,1983.0,2002.0,5.0
+Sierra,sierraleone,1990.0,2004.0,14.0
+Vietnam,vietnam,1984.0,2009.0,5.0
+South Africa,southafrica,1996.0,2001.0,5.0
+Spain,spain,1971.0,2001.0,10.0
+South Sudan ,southsudan,2007.0,2008.0,1.0
+Sudan,sudan,2007.0,2008.0,1.0
+Thailand,thailand,1965.0,2000.0,5.0
+Trinidad and Tobago,trinidadandtobago,1980.0,2011.0,10.0
+United Kingd,unitedkingdom,1990.0,2001.0,1.0
+Tanzania,tanzania,2001.0,2002.0,1.0
+United State,unitedstates,1965.0,2000.0,5.0
+Uruguay,uruguay,1970.0,2006.0,5.0
+Venezuela,venezuela,1996.0,2001.0,5.0
+Zambia,zambia,1989.0,2010.0,1.0
